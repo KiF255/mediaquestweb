@@ -6,10 +6,12 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="catalog-bg">
-    <header>
+    <header class="navbar">
         <h2 class="logo">MediaQuest</h2>
+        <input type="text" id="search" placeholder="Buscar..." oninput="filterCatalog()">
+        <button class="logout-btn" onclick="logout()">Logout</button>
     </header>
-    <div id="catalog-container" class="grid"></div>
+    <div id="catalog-container" class="grid animate-fade"></div>
     <script src="app.js"></script>
 </body>
 </html>
