@@ -1,8 +1,6 @@
 # 🎮 MediaQuest - Plataforma Multimedia Web
 
-![Status](https://img.shields.io/badge/Status-Terminado-success)
-![Technology](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blueviolet)
-![Style](https://img.shields.io/badge/Style-Neon%20Gamer-00ffff)
+
 
 **MediaQuest** es una aplicación web *frontend* diseñada para simular un sistema de acceso y visualización de contenido multimedia (videojuegos/películas). El proyecto destaca por su diseño estético "Neon Gamer" y el uso de lógica JavaScript para la manipulación del DOM en tiempo real.
 
